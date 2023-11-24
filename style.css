@@ -14,6 +14,7 @@ body{
     background: linear-gradient(grey, black);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    text-align: center;
 }
 h1{
     border-style: outset;
