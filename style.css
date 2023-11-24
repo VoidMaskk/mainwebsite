@@ -7,19 +7,37 @@ p{
     border-color:rgb(22, 22, 22);
     border-radius:0px;
     padding:4px;
+    font-family: sans-serif;
 }
 body{
-    background: linear-gradient(grey, black)
+    margin: 0px;
+    background: linear-gradient(grey, black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 h1{
-    border-style:outset;
+    border-style: outset;
     border:2px;
-    border-top-style:dotted;
-    border-bottom-style:dotted;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
     background-color:rgb(160, 160, 160);
     color:rgb(232, 232, 232);
     text-align: center;
+    text-shadow:5px 4px 2px black;
 }
 h2{
     text-align: center;
+    color:rgb(182, 182, 182);
+}
+a:link{
+    color:aqua
+}
+a:visited{
+    color:rgb(62, 95, 95)
+}
+a:hover{
+    color:rgb(35, 193, 193)
+}
+a:active{
+    color:rgb(180, 255, 255)
 }
