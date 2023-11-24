@@ -2,12 +2,20 @@ p{
     background-color:rgb(64, 64, 64);
     color:rgb(194, 194, 194);
     text-align: center;
+    border-style: outset;
+    border-width:3px;
+    border-color:rgb(22, 22, 22);
+    border-radius:0px;
+    padding:4px;
 }
 body{
-    background-color:rgb(86, 86, 86); color:white;
+    background: linear-gradient(grey, black)
 }
 h1{
+    border-style:outset;
     border:2px;
+    border-top-style:dotted;
+    border-bottom-style:dotted;
     background-color:rgb(160, 160, 160);
     color:rgb(232, 232, 232);
     text-align: center;
