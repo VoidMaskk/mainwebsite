@@ -3,7 +3,15 @@ p{
     color:rgb(194, 194, 194);
     text-align: center;
 }
-
 body{
     background-color:rgb(86, 86, 86); color:white;
+}
+h1{
+    border:2px;
+    background-color:rgb(160, 160, 160);
+    color:rgb(232, 232, 232);
+    text-align: center;
+}
+h2{
+    text-align: center;
 }
